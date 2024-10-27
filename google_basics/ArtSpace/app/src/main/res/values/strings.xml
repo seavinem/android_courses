@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="title_0">Mona Lisa</string>
+    <string name="author_0">Leonardo Da Vinci</string>
+
+    <string name="title_1">The Scream</string>
+    <string name="author_1">Edvard Munch</string>
+
+    <string name="title_2">Girl with a Pearl Earring</string>
+    <string name="author_2">Johannes Vermeer</string>
+
+    <string name="title_3">The Arnolfini Marriage</string>
+    <string name="author_3">Jan van Eyck</string>
+
+    <string name="title_4">Sistine Chapel Ceiling</string>
+    <string name="author_4">Michelangelo</string>
+
+    <string name="title_5">The Liberty leading the people</string>
+    <string name="author_5">Eugène Delacroix</string>
+
+    <string name="title_6">The Kiss</string>
+    <string name="author_6">Gustav Klimt</string>
+</resources>
